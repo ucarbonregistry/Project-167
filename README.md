@@ -1,7 +1,24 @@
 # Project-167
 Bio-CNG Project AJS Fuels in Savli, Gujarat
 
+The Bio-CNG Project AJS Fuels in Savli, Gujarat comprises of a project activity using biogas
+technology for capturing methane from fresh animal dung, poultry litter and organic waste, that is
+fed into an anaerobic digester and the gainful use of recovered methane gas for Bio-CNG bottling
+purposes for use in the transport sector. The project activity avoids the methane emissions emitted
+from the decay of the degradable organic carbon in the biomass and other organic matter.
 
+The project activity by the project proponent (PP), AJS Fuels Pvt Ltd., (AJS) is located in Village:
+Dhantej, Taluka: Savli, District: Vadodara, State: Gujarat, Country: India.
+The purpose of the AJS project activity is the setup of an independent biogas plant of 1000 m3
+capacity to co-digest fresh cattle dung, poultry litter, organic waste and pressmud (press mud is used
+from 2022 onwards, hence is not part of this first verification period and monitoring period between
+2014-2021), from farms and sugar mills outside the project boundary, which in turn generates and
+captures methane due to anaerobic digestion
+__________________________________________________
+UCR CoUs issued for Monitored Period 01: 2014-2021
+
+UCR CoUs issued for Monitored Period 02: 2022
+__________________________________
 Serial Number: 0001-000001-011077-UCR-CoU-IN-167-01012014-31122014
 
 Vintage Year: 2014
